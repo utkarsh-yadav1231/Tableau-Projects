@@ -1,0 +1,21 @@
+
+Amazon Trade is a company which ships a variety of FMCG (Fast Moving Consumer Goods)
+all over the world.
+
+The Shipping Manager doesn't have much visibility and doesn't know how many orders are
+processed and shipped on a monthly basis. He would like a dashboard of this where he selects
+a month and can tell how many orders are outstanding a day and where they should be
+shipped.
+
+Amazon Trade has a database on Azure as well as Maria DB. The Shipping manager has
+given us the details to connect to it.
+
+Data Source Connection for Amazon Trade
+Connect to Maria DB
+Server: hostname: relational.fit.cvut.cz
+Database:
+port: 3306
+username: guest
+password: relational
+
+If this is not connecting, feel free to connect to the CSV files I’ve uploaded!
